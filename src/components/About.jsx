@@ -10,15 +10,23 @@ const About = () => {
             </div>
             
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic harum odit id laborum doloremque impedit 
-                doloribus dolores iste illo beatae voluptatibus voluptate minima fugit alias quia aut architecto, rem molestias.
+                Greetings, and welcome to my Portfolio!, To stat my name is Cory Styer. I started my coding journey when
+                I started a Full-Stack Web Development Bootcamp back in December of 2022! Ever since I have loved the challenges
+                and knowledge that I've gained from the bootcamp, and from it have gain an appreciation for coding. I've also discovered
+                that I seem to grasp more of an understanding with back-end technologies involved in webdevelopment. But I am willing to learn
+                more as I continue down the path of web development and face new challenges to overcome and expan my knowledge from learning something
+                new every day! A couple of my interests include; Art, Animation, Comics, Gaming, Cars, and Cosplay! Which you can see a couple of my Cosplays
+                from click the button to my Instagram in my contacts section below!
+
             </p>
 
             <br/>
 
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus nulla ex nobis debitis nisi libero et aut repellat inventore,
-                reprehenderit, laboriosam ab itaque ducimus! Accusamus quibusdam atque qui tempora numquam?
+                As I look towards the future and thing of what I wish to acomplish with my life, I wish to be able to join a career, that is willing
+                to help me grow and continuously gain the knowledge I wish to learn. Coding is somethign that is able to scratch that itch.
+                Gettitng the oportunity to create something but also learn something new from each and every project you work on it something I find interesting
+                and fulfilling. As I say, "If you learned something new by the end of the day, you had a good day."
             </p>
 
         </div>

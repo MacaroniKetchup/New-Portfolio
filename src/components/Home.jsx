@@ -18,11 +18,6 @@ const Home = () => {
             <img src={HeroImage} alt="my profile" className='rounded-2xl mx-auto w-2/3 md:w-full' />
           </div>
 
-          <div>
-            <button className='text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500'>
-              Portfolio
-            </button>
-          </div>
         </div>
       </div>
     </div>
