@@ -2,6 +2,7 @@ import React from 'react'
 import battleBinder from '../assets/portfolio/battleBinder.png'
 import jobSearch from '../assets/portfolio/jobSearch.png'
 import underDevelopment from '../assets/portfolio/underDevelopment.png'
+import bookSearchEngine from '../assets/portfolio/bookSearchEngine.png'
 
 const Portfolio = () => {
 
@@ -24,7 +25,9 @@ const Portfolio = () => {
         },
         {
             id: 4,
-            src: underDevelopment
+            src: bookSearchEngine,
+            demoLink: "https://serene-everglades-09926.herokuapp.com/",
+            repoLink: "https://github.com/MacaroniKetchup/Book-Search-Engine"
         },
         {
             id: 5,
