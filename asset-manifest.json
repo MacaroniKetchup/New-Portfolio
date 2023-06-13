@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/New-Portfolio/static/css/main.9a741694.css",
-    "main.js": "/New-Portfolio/static/js/main.ec9984e2.js",
+    "main.js": "/New-Portfolio/static/js/main.c8339c88.js",
     "static/media/battleBinder.png": "/New-Portfolio/static/media/battleBinder.38d41c2d0604a407e3ac.png",
+    "static/media/obsidianBazaar.png": "/New-Portfolio/static/media/obsidianBazaar.bc5bab424ece311cf7f4.png",
     "static/media/bookSearchEngine.png": "/New-Portfolio/static/media/bookSearchEngine.dd48fd061232e2d98f10.png",
     "static/media/jobSearch.png": "/New-Portfolio/static/media/jobSearch.3ade2547c6650c097a70.png",
     "static/media/underDevelopment.png": "/New-Portfolio/static/media/underDevelopment.bc85f05d1629c0900b25.png",
     "static/media/heroImage.png": "/New-Portfolio/static/media/heroImage.8011080be9ef203e05f7.png",
+    "static/media/pwaTextEditor.png": "/New-Portfolio/static/media/pwaTextEditor.caaf0a8753dc6522bce7.png",
     "index.html": "/New-Portfolio/index.html",
     "main.9a741694.css.map": "/New-Portfolio/static/css/main.9a741694.css.map",
-    "main.ec9984e2.js.map": "/New-Portfolio/static/js/main.ec9984e2.js.map"
+    "main.c8339c88.js.map": "/New-Portfolio/static/js/main.c8339c88.js.map"
   },
   "entrypoints": [
     "static/css/main.9a741694.css",
-    "static/js/main.ec9984e2.js"
+    "static/js/main.c8339c88.js"
   ]
 }
