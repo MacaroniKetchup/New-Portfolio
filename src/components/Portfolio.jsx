@@ -1,8 +1,10 @@
 import React from 'react'
 import battleBinder from '../assets/portfolio/battleBinder.png'
 import jobSearch from '../assets/portfolio/jobSearch.png'
+import obsidianBazaar from '../assets/portfolio/obsidianBazaar.png'
 import underDevelopment from '../assets/portfolio/underDevelopment.png'
 import bookSearchEngine from '../assets/portfolio/bookSearchEngine.png'
+import pwaTextEditor from '../assets/portfolio/pwaTextEditor.png'
 
 const Portfolio = () => {
 
@@ -21,7 +23,9 @@ const Portfolio = () => {
         },
         {
             id: 3,
-            src: underDevelopment
+            src: obsidianBazaar,
+            demoLink: "https://blooming-oasis-56175.herokuapp.com/",
+            repoLink: "https://github.com/migavg/Obsidian-Bazaar"
         },
         {
             id: 4,
@@ -31,7 +35,9 @@ const Portfolio = () => {
         },
         {
             id: 5,
-            src: underDevelopment
+            src: pwaTextEditor,
+            demoLink: "https://pure-beyond-85915.herokuapp.com/",
+            repoLink: "https://github.com/MacaroniKetchup/PWA-Text-Editor",
         },
         {
             id: 6,
