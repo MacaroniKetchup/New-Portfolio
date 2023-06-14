@@ -7,11 +7,12 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center min-h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center min-h-full">
 
-          <h2 className="text-4xl sm:text-3xl font-bold text-white">I am a Full-Stack Developer with a preference in Back-End Development!</h2>
+          <h2 className="py-4text-4xl sm:text-3xl font-bold text-white">I am a Full-Stack Developer with a preference in Back-End Development!</h2>
           <p className="text-gray-500 py-4 max-w-mid">
-            Currently Enrolled in a 6 month Full-Stack Web Developer Bootcamp.
+            Fresh graduate from a 6 month Full-Stack Web Developer Bootcamp.
             During my time in the Bootcamp I discovered a love for coding back-end web applications,
-            and have experience in working with React, Node, Esxpress.js, MongoDB, MySql, and Sequelize.
+            and have experience in working with HTML, CSS, Bootstrap, Bulma, JavaScript, Node.js, Esxpress.js, React,NoSQL, Sequelize, 
+            MongoDB, and Apollo GraphQl.
           </p>
 
           <div>
